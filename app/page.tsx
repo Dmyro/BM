@@ -12,7 +12,7 @@ export default function Home() {
           Life Stories
         </p>
         <h1 className="font-serif text-5xl sm:text-6xl text-gray-900 leading-tight max-w-2xl mx-auto">
-          Every life has a story worth telling.
+          Every lifEe has a story worth telling.
         </h1>
         <p className="mt-6 text-lg text-gray-500 max-w-md mx-auto leading-relaxed">
           Not an obituary. Not a tribute. A real account of a real life —
