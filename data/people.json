@@ -1,0 +1,43 @@
+[
+  {
+    "slug": "eleanor-hayes",
+    "name": "Eleanor Hayes",
+    "born": "1941",
+    "died": "2023",
+    "birthplace": "Asheville, North Carolina",
+    "tagline": "Botanist, writer, and lifelong wanderer.",
+    "quote": "Pay attention. Be astonished. Tell about it.",
+    "chapters": [
+      {
+        "year": "1941",
+        "title": "Roots in the Blue Ridge",
+        "body": "Eleanor was born in the misty foothills of Asheville, the youngest of four children. Her father ran a small nursery, and she spent her childhood among greenhouse rows, learning the names of things long before she learned to read."
+      },
+      {
+        "year": "1963",
+        "title": "A Degree and a Backpack",
+        "body": "She graduated from UNC Chapel Hill with a degree in botany, then immediately bought a one-way train ticket west. Over the next three years she worked as a field researcher in the Cascades, cataloguing alpine wildflowers for the US Forest Service."
+      },
+      {
+        "year": "1970",
+        "title": "Marriage and Mexico",
+        "body": "Eleanor married Thomas Hayes in a small ceremony in Santa Fe. The two spent their honeymoon in Oaxaca, where Eleanor fell in love with the native flora and began keeping the journals that would later become her first book."
+      },
+      {
+        "year": "1978",
+        "title": "Published at Last",
+        "body": "Her debut, 'Field Notes from Everywhere', sold modestly but earned devoted readers. A reviewer in The Atlantic called it 'the rare science book that reads like a love letter to the earth.'"
+      },
+      {
+        "year": "1994",
+        "title": "Coming Home",
+        "body": "After decades of travel, Eleanor and Thomas returned to Asheville and bought a small farm. She planted an extensive native garden, taught botany at Warren Wilson College, and finished three more books in the sunlit study that overlooked the valley."
+      },
+      {
+        "year": "2023",
+        "title": "A Life Fully Lived",
+        "body": "Eleanor passed peacefully at her farm, surrounded by her family. She left behind four books, two grandchildren, and a garden her neighbors still tend to this day."
+      }
+    ]
+  }
+]
